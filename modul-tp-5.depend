@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728726886 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\modul-tp-5\sll.cpp
+	"sll.h"
+
+1728726436 c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\modul-tp-5\sll.h
+	<iostream>
+
+1728726760 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\modul-tp-5\main.cpp
+	<iostream>
+	"sll.h"
+
